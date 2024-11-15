@@ -8,7 +8,7 @@ public class SpringBootTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTestApplication.class, args);
-		System.out.println("Lokesh is working in branch1 ")
+		System.out.println("Arumugam is working on branch2 ")
 	}
 
 }
